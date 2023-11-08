@@ -1,10 +1,13 @@
-body{
-    background-color:bisque;
+
+body{ 
+    background-image: url("beige.jpg");
+    }
+
+
+    
+img{
+    border-radius: 50%;
 }
-
-body{ background-image: url("beige.jpg");
-    opacity: 0.6;}
-
 
 
 
